@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Figura1", "Figura1\Figura1.vcxproj", "{75B1CC05-BBA8-483B-AB97-8802AA383BDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AreaDeFigura", "AreaDeFigura\AreaDeFigura.vcxproj", "{C28F4B10-0537-43C9-994F-47A7577891B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Debug|Win32.Build.0 = Debug|Win32
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Debug|x64.ActiveCfg = Debug|Win32
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Release|Win32.ActiveCfg = Release|Win32
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Release|Win32.Build.0 = Release|Win32
+		{75B1CC05-BBA8-483B-AB97-8802AA383BDA}.Release|x64.ActiveCfg = Release|Win32
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Debug|Win32.Build.0 = Debug|Win32
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Debug|x64.ActiveCfg = Debug|x64
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Debug|x64.Build.0 = Debug|x64
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Release|Win32.ActiveCfg = Release|Win32
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Release|Win32.Build.0 = Release|Win32
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Release|x64.ActiveCfg = Release|x64
+		{C28F4B10-0537-43C9-994F-47A7577891B5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C0B4DD-BF92-45F9-9FBD-5671B07DD109}
+	EndGlobalSection
+EndGlobal

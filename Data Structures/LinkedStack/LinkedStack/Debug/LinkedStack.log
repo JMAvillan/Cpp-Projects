@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\LinkedStack\LinkedStack\LinkedStack.h(154,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\LinkedStack\LinkedStack\LinkedStack.h(137): message : while compiling class template member function 'bool LinkedStack<char>::recognizeString(std::string)'
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\LinkedStack\LinkedStack\main.cpp(11): message : see reference to function template instantiation 'bool LinkedStack<char>::recognizeString(std::string)' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\LinkedStack\LinkedStack\main.cpp(9): message : see reference to class template instantiation 'LinkedStack<char>' being compiled
+  LinkedStack.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\LinkedStack\Debug\LinkedStack.exe

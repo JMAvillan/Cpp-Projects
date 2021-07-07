@@ -1,0 +1,4 @@
+﻿  mainRectangle.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Rectangle con (throw)\Rectangle con (throw)\Rectangle.h(19,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Rectangle con (throw)\Rectangle con (throw)\Rectangle.h(20,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Rectangle con (throw).vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Rectangle con (throw)\Debug\Rectangle con (throw).exe

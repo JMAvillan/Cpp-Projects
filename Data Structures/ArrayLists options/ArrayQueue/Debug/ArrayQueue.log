@@ -1,0 +1,5 @@
+﻿  mainList.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayQueue\ArrayQueue.h(33,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayQueue\ArrayQueue.h(36): message : see reference to class template instantiation 'ArrayQueue<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayQueue\ArrayQueue.h(87,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayQueue\mainList.cpp(5,10): fatal error C1083: Cannot open include file: 'ArrayStack.h': No such file or directory

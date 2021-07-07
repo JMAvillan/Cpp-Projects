@@ -1,0 +1,10 @@
+﻿  mainPrinterQueue.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\LinkedList.h(36,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\LinkedList.h(45): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\LinkedList.h(41,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\LinkedList.h(160,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\LinkedList.h(196,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\ListQueue.h(30,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\ListQueue.h(35): message : see reference to class template instantiation 'ListQueue<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\PrinterQueue\ListQueue.h(72,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  PrinterQueue.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\PrinterQueue\Debug\PrinterQueue.exe

@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ArrayStack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mainArray.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\ArrayQueue.h(33,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\ArrayQueue.h(37): message : see reference to class template instantiation 'ArrayQueue<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\ArrayQueue.h(88,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\mainArray.cpp(68,22): warning C4244: 'argument': conversion from 'double' to 'const ItemType', possible loss of data
+          with
+          [
+              ItemType=char
+          ]
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\mainArray.cpp(76,23): warning C4244: 'argument': conversion from 'double' to 'const ItemType', possible loss of data
+          with
+          [
+              ItemType=char
+          ]
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\ArrayStack\mainArray.cpp(84,23): warning C4244: 'argument': conversion from 'double' to 'const ItemType', possible loss of data
+          with
+          [
+              ItemType=char
+          ]
+  ArrayStack.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\ArrayLists options\Debug\ArrayLists.exe

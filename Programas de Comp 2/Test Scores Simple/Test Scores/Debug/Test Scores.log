@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  TestScores.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Test Scores Simple\Test Scores\Main.cpp(21,20): error C3867:  'TestScores::getAverage': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Test Scores Simple\Test Scores\TestScores.cpp(42,11): warning C4552:  '/': result of expression not used
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Test Scores Simple\Test Scores\TestScores.cpp(33): warning C4715:  'TestScores::getScores': not all control paths return a value
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Test Scores Simple\Test Scores\TestScores.cpp(40): error C4700:  uninitialized local variable 'average' used

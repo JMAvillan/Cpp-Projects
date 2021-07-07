@@ -1,0 +1,7 @@
+﻿  OvernightPackage.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Package Inheritance Hierarchy\Package.h(27,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Package Inheritance Hierarchy\Package.h(28,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Package Inheritance Hierarchy\OvernightPackage.h(12,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Package Inheritance Hierarchy\OvernightPackage.cpp(13,1): warning C5043: 'OvernightPackage::setExtraFee': exception specification does not match previous declaration
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Package Inheritance Hierarchy\OvernightPackage.h(12): message : see declaration of 'OvernightPackage::setExtraFee'
+  Package Inheritance Hierarchy.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Package Inheritance Hierarchy\Debug\Package Inheritance Hierarchy.exe

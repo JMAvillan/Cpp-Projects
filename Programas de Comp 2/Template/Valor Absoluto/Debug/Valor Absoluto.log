@@ -1,0 +1,4 @@
+﻿  mainValorAbsoluto.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Template\Valor Absoluto\mainValorAbsoluto.cpp(15,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Template\Valor Absoluto\mainValorAbsoluto.cpp(15,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Valor Absoluto.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Template\Debug\Valor Absoluto.exe

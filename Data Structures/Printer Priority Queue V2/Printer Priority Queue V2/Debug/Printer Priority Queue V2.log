@@ -1,0 +1,9 @@
+﻿  mainQueue.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\LinkedSortedList.h(41,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\LinkedSortedList.h(42): message : see reference to class template instantiation 'LinkedSortedList<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\LinkedSortedList.h(187,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\SL_PriorityQueue.h(25,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\SL_PriorityQueue.h(27): message : see reference to class template instantiation 'SL_PriorityQueue<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\SL_PriorityQueue.h(65,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Printer Priority Queue V2\SL_PriorityQueue.h(79): warning C4715: 'SL_PriorityQueue<PrinterJob>::peek': not all control paths return a value
+  Printer Priority Queue V2.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Printer Priority Queue V2\Debug\Printer Priority Queue V2.exe

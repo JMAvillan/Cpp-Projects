@@ -1,0 +1,8 @@
+﻿  main_Rectangle.cpp
+  Rectangle.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Project2\Project2\Rectangle.cpp(20,2): error C2601:  'Rectangle::setWidth': local function definitions are illegal
+C:\Users\josem\Documents\Visual Studio 2019\Project2\Project2\Rectangle.cpp(13): message :  this line contains a '{' which has not yet been matched
+C:\Users\josem\Documents\Visual Studio 2019\Project2\Project2\Rectangle.cpp(32,1): error C2601:  'Rectangle::setLength': local function definitions are illegal
+C:\Users\josem\Documents\Visual Studio 2019\Project2\Project2\Rectangle.cpp(13): message :  this line contains a '{' which has not yet been matched
+  Generating Code...
+C:\Users\josem\Documents\Visual Studio 2019\Project2\Project2\Rectangle.cpp(32): error C1075:  '{': no matching token found

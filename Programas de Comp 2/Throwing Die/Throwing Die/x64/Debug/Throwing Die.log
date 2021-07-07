@@ -1,0 +1,10 @@
+﻿  Die.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,8): error C2059:  syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2143:  syntax error: missing ';' before '{'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2447:  '{': missing function header (old-style formal list?)
+  main_Die.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Programas de Comp 2\Throwing Die\Throwing Die\Die.cpp(16,17): warning C4244:  'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,8): error C2059:  syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2143:  syntax error: missing ';' before '{'
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\sal.h(2361,12): error C2447:  '{': missing function header (old-style formal list?)

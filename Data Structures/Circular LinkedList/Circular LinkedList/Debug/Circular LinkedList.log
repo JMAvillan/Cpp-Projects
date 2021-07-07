@@ -1,0 +1,9 @@
+﻿  PrecondViolatedExcep.cpp
+  Source.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Circular LinkedList\LinkedList.h(36,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Circular LinkedList\LinkedList.h(46): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Circular LinkedList\LinkedList.h(41,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Circular LinkedList\LinkedList.h(167,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Circular LinkedList\LinkedList.h(203,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Circular LinkedList.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\Circular LinkedList\Debug\Circular LinkedList.exe

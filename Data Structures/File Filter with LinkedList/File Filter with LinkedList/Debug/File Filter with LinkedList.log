@@ -1,0 +1,10 @@
+﻿  mainFileCompare.cpp
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\LinkedList.h(44,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\LinkedList.h(50): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\LinkedList.h(49,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\LinkedList.h(159,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\LinkedList.h(195,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\ListQueue.h(30,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\ListQueue.h(35): message : see reference to class template instantiation 'ListQueue<ItemType>' being compiled
+C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\File Filter with LinkedList\ListQueue.h(72,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  File Filter with LinkedList.vcxproj -> C:\Users\josem\Documents\Visual Studio 2019\Data Structures\File Filter with LinkedList\Debug\File Filter with LinkedList.exe
